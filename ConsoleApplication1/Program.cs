@@ -33,6 +33,8 @@ namespace ConsoleApplication1
             p1.PrintFullName();
             Program p2 = new Program("Rao", "Raja");
             p2.PrintFullName();
+            Program p3 = new Program("testRao", "testRalph");
+            p3.PrintFullName();
         }
     }
 }
